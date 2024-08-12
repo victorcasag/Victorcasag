@@ -29,7 +29,7 @@ Alla Torrecid, ho anche avanzato nello sviluppo software, guidando progetti dall
 
 Inoltre, ho avuto un'esperienza arricchente all'Angeloni, dove ho acquisito conoscenze significative in Progress e nella documentazione dei programmi, che ha ulteriormente migliorato la mia capacità di sviluppare soluzioni robuste e ben documentate.
 
-## Habilidades
+## Habilidades | Skills | Competenze
 
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Visual Basic .Net](https://img.shields.io/badge/Visual%20Basic%20.Net-4.0-purple)
