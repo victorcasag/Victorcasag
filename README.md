@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Victor Casagrande
+# Bem-vindo 👋
 
-Sou um profissional dedicado e apaixonado pela área de tecnologia, sempre buscando ampliar meu conhecimento e aprimorar minhas habilidades. Sou formado em Ciências da Computação pela UNESC e atualmente estou cursando a pós-graduação em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native) na UNESC.
+Sou Victor Casagrande, sou formado em Ciências da Computação pela UNESC e atualmente estou cursando a pós-graduação em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native) na UNESC.
 
 Durante meus três anos na Torrecid do Brasil, trabalhei em um ambiente dinâmico e desafiador, onde me comuniquei diariamente em português, inglês e espanhol. Isso me permitiu expandir meu conhecimento em diversas áreas da computação. Atuei na área de DevOps, otimizando processos e assegurando a eficiência na infraestrutura de redes e servidores físicos em todas as filiais das Américas. Além disso, fui responsável por oferecer suporte técnico aos usuários, resolvendo problemas complexos relacionados a hardware e software.
 
