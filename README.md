@@ -1,15 +1,17 @@
 # Bem-vindo | Welcome | Benvenuto 👋
 
+## Sobre Mim / About Me / Su Di Me
+
+### Português
 Sou Victor Casagrande, sou formado em Ciências da Computação pela UNESC e atualmente estou cursando a pós-graduação em Desenvolvimento Fullstack de Sistemas Modernos para Nuvem (Cloud Native) na UNESC.
 
 Durante meus três anos na Torrecid do Brasil, trabalhei em um ambiente dinâmico e desafiador, onde me comuniquei diariamente em português, inglês e espanhol. Isso me permitiu expandir meu conhecimento em diversas áreas da computação. Atuei na área de DevOps, otimizando processos e assegurando a eficiência na infraestrutura de redes e servidores físicos em todas as filiais das Américas. Além disso, fui responsável por oferecer suporte técnico aos usuários, resolvendo problemas complexos relacionados a hardware e software.
 
-Na Torrecid, também avancei no desenvolvimento de software, liderando projetos desde a concepção até a implementação, criando soluções personalizadas para atender às necessidades específicas da empresa. Contribuí ativamente para a implementação de novas funcionalidades e melhorias em sistemas existentes, destacando-me pela capacidade de encontrar soluções inovadoras e eficientes, utilizando tecnologias como Visual Basic.Net, Visual Basic 6, Crystal Reports, PL/SQL (Oracle), C#, e GIT.
+Na Torrecid, também avancei no desenvolvimento de software, liderando projetos desde a concepção até a implementação, criando soluções personalizadas para atender às necessidades específicas da empresa. Contribuí ativamente para a implementação de novas funcionalidades e melhorias em sistemas existentes, destacando-me pela capacidade de encontrar soluções inovadoras e eficientes, utilizando tecnologias como Visual Basic .Net, Visual Basic 6, Crystal Reports, PL/SQL (Oracle), C#, e GIT.
 
 Além disso, tive uma experiência enriquecedora no Angeloni, onde adquiri conhecimentos significativos em Progress e na documentação de programas, o que aprimorou ainda mais minha capacidade de desenvolver soluções robustas e bem documentadas.
 
-English:
-
+### English
 I am Victor Casagrande, I hold a degree in Computer Science from UNESC, and I am currently pursuing a postgraduate degree in Fullstack Development of Modern Cloud Systems (Cloud Native) at UNESC.
 
 During my three years at Torrecid in Brazil, I worked in a dynamic and challenging environment where I communicated daily in Portuguese, English, and Spanish. This allowed me to expand my knowledge in various areas of computing. I worked in the DevOps field, optimizing processes and ensuring the efficiency of network infrastructure and physical servers in all branches across the Americas. Additionally, I was responsible for providing technical support to users, resolving complex issues related to hardware and software.
@@ -18,8 +20,7 @@ At Torrecid, I also advanced in software development, leading projects from conc
 
 Furthermore, I had an enriching experience at Angeloni, where I gained significant knowledge in Progress and program documentation, which further enhanced my ability to develop robust and well-documented solutions.
 
-Italian:
-
+### Italiano
 Sono Victor Casagrande, laureato in Informatica presso l'UNESC e attualmente sto seguendo un corso post-laurea in Sviluppo Fullstack di Sistemi Moderni per il Cloud (Cloud Native) presso l'UNESC.
 
 Durante i miei tre anni alla Torrecid in Brasile, ho lavorato in un ambiente dinamico e stimolante dove mi sono comunicato quotidianamente in portoghese, inglese e spagnolo. Questo mi ha permesso di ampliare le mie conoscenze in diverse aree dell'informatica. Ho lavorato nel campo del DevOps, ottimizzando i processi e assicurando l'efficienza dell'infrastruttura di rete e dei server fisici in tutte le filiali delle Americhe. Inoltre, ero responsabile di fornire supporto tecnico agli utenti, risolvendo problemi complessi legati all'hardware e al software.
