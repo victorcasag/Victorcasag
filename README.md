@@ -1,6 +1,6 @@
 Welcome 👋
 
-## Sobre Mim / About Me / Su Di Me
+## About Me
 
 ### English
 I am Victor Casagrande, I hold a degree in Computer Science from UNESC, and I am currently pursuing a postgraduate degree in Fullstack Development of Modern Cloud Systems (Cloud Native) at UNESC.
@@ -11,7 +11,7 @@ At Torrecid, I also advanced in software development, leading projects from conc
 
 Furthermore, I had an enriching experience at Angeloni, where I gained significant knowledge in Progress and program documentation, which further enhanced my ability to develop robust and well-documented solutions.
 
-## Habilidades | Skills | Competenze
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Visual Basic .Net](https://img.shields.io/badge/Visual%20Basic%20.Net-4.0-purple)
