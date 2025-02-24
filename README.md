@@ -3,7 +3,7 @@ Welcome 👋
 ## About Me
 
 ### English
-I am Victor Casagrande, I hold a degree in Computer Science from UNESC, and I am currently pursuing a postgraduate degree in Fullstack Development of Modern Cloud Systems (Cloud Native) at UNESC.
+I am Victor Casagrande, I hold a degree in Computer Science and postgraduate degree in Fullstack Development of Modern Cloud Systems (Cloud Native) from UNESC, and I am currently pursuing a postgraduate MIT in Software Engineering with Java and MIT in Software Architecture from INFNET.
 
 During my three years at Torrecid in Brazil, I worked in a dynamic and challenging environment where I communicated daily in Portuguese, English, and Spanish. This allowed me to expand my knowledge in various areas of computing. I worked in the DevOps field, optimizing processes and ensuring the efficiency of network infrastructure and physical servers in all branches across the Americas. Additionally, I was responsible for providing technical support to users, resolving complex issues related to hardware and software.
 
