@@ -1,39 +1,73 @@
-Welcome 👋
+# Hi, I'm Victor Casagrande 👋
 
-## About Me
+**Software Engineer | Fullstack Developer | 🇮🇹 EU Citizen**
 
-### English
-I am Victor Casagrande, I hold a degree in Computer Science and postgraduate degree in Fullstack Development of Modern Cloud Systems (Cloud Native) from UNESC, and I am currently pursuing a postgraduate MIT in Software Engineering with Java and MIT in Software Architecture from INFNET.
+Fullstack Software Engineer with **5+ years of experience** building enterprise systems across multiple technology ecosystems — from .NET and Oracle to Java/Spring Boot and TypeScript/React.
 
-During my three years at Torrecid in Brazil, I worked in a dynamic and challenging environment where I communicated daily in Portuguese, English, and Spanish. This allowed me to expand my knowledge in various areas of computing. I worked in the DevOps field, optimizing processes and ensuring the efficiency of network infrastructure and physical servers in all branches across the Americas. Additionally, I was responsible for providing technical support to users, resolving complex issues related to hardware and software.
+📍 Berlin, Germany | 🌍 Open to opportunities in Europe
 
-At Torrecid, I also advanced in software development, leading projects from conception to implementation, creating customized solutions to meet the specific needs of the company. I actively contributed to the implementation of new features and improvements in existing systems, standing out for my ability to find innovative and efficient solutions using technologies such as Visual Basic .Net, Visual Basic 6, Crystal Reports, PL/SQL (Oracle), C#, and GIT.
+---
 
-Furthermore, I had an enriching experience at Angeloni, where I gained significant knowledge in Progress and program documentation, which further enhanced my ability to develop robust and well-documented solutions.
+## 🚀 What I Do
 
-## Skills
+🔹 Currently at **Water Services & Technologies** — Lead developer building a corporate management platform (SGI) from scratch. Already delivered 6 modules: Opportunities, Proposals Workflow, Corporate Events (i18n for 4 languages), Real-time Notifications, and Multi-level Approvals.
 
-![Java](https://img.shields.io/badge/Java-8-orange)
-![Visual Basic .Net](https://img.shields.io/badge/Visual%20Basic%20.Net-4.0-purple)
-![VB6](https://img.shields.io/badge/VB6-Bug%20Fixes-lightgrey)
-![Infraestrutura de TI](https://img.shields.io/badge/Infraestrutura%20de%20TI-Servidores%20Linux%20e%20Windows-informational)
-![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Oracle-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192)
-![Suporte Técnico](https://img.shields.io/badge/Suporte%20Técnico-Boa%20Comunicação-brightgreen)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![API Rest](https://img.shields.io/badge/API%20Rest-Development-yellow)
-![HTML](https://img.shields.io/badge/HTML-Markup-red)
-![CSS](https://img.shields.io/badge/CSS-Styling-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
-![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-Framework-brightgreen)
-![JPA](https://img.shields.io/badge/JPA-Data%20Persistence-orange)
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![C#](https://img.shields.io/badge/C%23-Development-purple)
-![Maven](https://img.shields.io/badge/Maven-Build%20Tool-blue)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-purple)
+🔹 Previously at **Torrecid** (Spanish multinational) — Worked daily in **English and Spanish** with teams from **5 countries** (Spain, Mexico, Colombia, Argentina, Brazil), developing enterprise systems across logistics, finance, and procurement.
 
-## Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victor-farias-casagrande/)
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Education
+
+🎓 **B.Sc. Computer Science** — UNESC
+
+🎓 **Postgraduate in Fullstack Cloud Native Development** — UNESC
+
+🎓 **MIT in Software Engineering with Java** — Infnet (in progress)
+
+🎓 **MIT in Software Architecture** — Infnet (in progress)
+
+---
+
+## 🌐 Languages
+
+🇧🇷 Portuguese (Native) | 🇬🇧 English (B2/C1) | 🇪🇸 Spanish (Intermediate) | 🇮🇹 Italian (Basic)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-farias-casagrande)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://victorcasagrande.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorcasag@hotmail.com)
